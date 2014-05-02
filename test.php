@@ -1,2 +1,2 @@
 <?
-$var = 'This is a test file - updated by brandon.best@bisnow.com';
+$var = 'This is a test file - updated by dummy';
