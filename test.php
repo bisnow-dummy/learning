@@ -1,2 +1,2 @@
 <?
-$var = 'This is a test file updated by brandon.best.';
+$var = 'This is a test file updated by brandon.best - local only.';
